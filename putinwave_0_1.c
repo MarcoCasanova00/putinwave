@@ -12,11 +12,11 @@ char bit [1], bit2[1], byte[1], other[100];
 
 int hide () {
     int a=0;
-    long count, c=D;
-    scanf("%d", Dcount);
+    long count, c=0;
+    scanf("%d", &count);
     printf("Reading file, please wait...\n");
     
-    for (int b=D; b<44;b++) {
+    for (int b=0; b<44;b++) {
             fread(byte, 1, 1, final);
     }
     while (c<count) {
@@ -29,7 +29,7 @@ int hide () {
                 fread(other, 100, 1, wav);
                 fread(other, 100, 1, tohide);
                 fwrite(other, 100, 1, final);
-                a=D;
+                a=0;
                 c=c+100;
             }
             else {
