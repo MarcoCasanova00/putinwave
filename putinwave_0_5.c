@@ -1,6 +1,7 @@
 /******************************************************************************
 
-                            KGB STENOGRAPHY
+                            PUTINWAVE, LIGHT STEGANOGRAPHY TOOL
+MADE IN C BY STEVE LITHIUM & MARCO CASANOVA
 
 *******************************************************************************/
 #include <stdio.h>
