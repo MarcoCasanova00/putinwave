@@ -12,7 +12,7 @@ char bit [1], bit2[1], byte[1], other[100];
 
 
 
-int hide() {
+int hide(void) {
 
     int a=0;
     long count, c=0;
@@ -61,7 +61,7 @@ int hide() {
 
 
 
-int extract() {
+int extract(void) {
     int a=0;
     long count, c=0;
 
