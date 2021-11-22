@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                            PUTINWAVE STEGANOGRAPHY / PUT FILES IN .WAV FILES BY STEVE LITHIUM
+                            PUTINWAVE STEGANOGRAPHY / PUT FILES IN .WAV FILES BY MARCO CASANOVA
 
 *******************************************************************************/
 #include <stdio.h>
@@ -94,7 +94,7 @@ printf("Extracting file... please wait...\n");
 
 int main(int argc, char *argv[]) {
 if (argc!=4) {
-	printf("\nputinwave v. 1.0 by steve_lithium \n\
+	printf("\nputinwave v. 1.0 by Marco Casanova \n\
 	usage: putinwave.exe -[a/e] file.wave file.ext\n \
 	-a : add file to file.wav.\n \
 		example: kgb.exe -a file.wav hide.zip\n\
