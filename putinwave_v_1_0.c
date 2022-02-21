@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                            PUTINWAVE STEGANOGRAPHY / PUT FILES IN .WAV FILES BY STEVE LITHIUM
+                            PUTINWAVE STEGANOGRAPHY / PUT FILES IN .WAV FILES BY MARCO CASANOVA
 
 *******************************************************************************/
 #include <stdio.h>
@@ -101,7 +101,7 @@ printf("|   |_| ||  |_|  |  |   |  |   | |       |  |       ||       ||       ||
 printf("|    ___||       |  |   |  |   | |  _    |  |       ||       ||       ||    ___|\n");
 printf("|   |    |       |  |   |  |   | | | |   |  |   _   ||   _   | |     | |   |___ \n");
 printf("|___|    |_______|  |___|  |___| |_|  |__|  |__| |__||__| |__|  |___|  |_______|\n");
-	printf("PutIn Wave - Stego Tool by Steve Lithium - 2021 \n\
+	printf("PutIn Wave - Stego Tool by  Marco Casanova - 2021 \n\
 	Usage: [a/e] file.wave file.ext\n \
 	-a : add file to file.wav.\n \
 		Example: -a file.wav hide.zip\n\
