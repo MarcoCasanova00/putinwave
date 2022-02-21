@@ -1,4 +1,4 @@
-# putinwave
+# PutInWave
 
 Steganography - Hide files in .wav 
 
@@ -7,7 +7,7 @@ Wrote in C by & Marco Casanova
 
 ./putinwave_0_1
 
-PutIn Wave - Stego Tool by  Marco Casanova - 2021
+	PutIn Wave - Stego Tool by  Marco Casanova - 2021
 
 
 	Usage: [a/e] file.wave file.ext
