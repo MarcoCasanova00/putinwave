@@ -1,3 +1,5 @@
+<img src="https://github.com/MarcoCasanova00/putinwave/blob/main/banner.gif" />
+
 # PutInWave
 
 Steganography - Hide files in .wav 
