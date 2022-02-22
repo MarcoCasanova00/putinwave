@@ -6,7 +6,7 @@ Steganography - Hide files in .wav
 
 Wrote in C by & Marco Casanova
 
-Open a terminal in the folder you've downloaded the compiled file
+Open a terminal in the folder you've downloaded the compiled the file
 
 type
 
